@@ -1,7 +1,9 @@
 **Как запустить проект**
 
 **Клонируйте репозиторий:**
-1. _git clone [<repo-url>](https://github.com/vladimirnazarov/VPNTestAndroid)_
+1. _Клонируйте репозиторий:_ 
+   ```bash
+   git clone https://github.com/vladimirnazarov/VPNTestAndroid.git
 2. _Откройте проект в Android Studio._
 3. _Синхронизируйте Gradle и дождитесь установки зависимостей._
 4. _Запустите проект на эмуляторе или реальном устройстве через MainActivity._
